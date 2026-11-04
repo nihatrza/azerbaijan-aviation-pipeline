@@ -75,12 +75,12 @@ The pipeline continuously monitors flight operations, evaluating carrier perform
 
 | Metric | Value |
 |--------|------:|
-| ✈️ Total Flights Processed | **595+** |
-| 🏢 Active Airlines Monitored | **31 carriers** |
+| ✈️ Total Flights Processed | **680+** |
+| 🏢 Active Airlines Monitored | **32 carriers** |
 | 🌍 Destination Reach | **30 countries / 37+ cities** |
-| ⏱️ On-Time Arrival Rate | **91.73%** |
-| 🛬 Average Arrival Delay | **10.5 min** |
-| 🛫 Average Departure Delay | **6.0 min** |
+| ⏱️ On-Time Arrival Rate | **91.07%** |
+| 🛬 Average Arrival Delay | **10.8 min** |
+| 🛫 Average Departure Delay | **6.8 min** |
 
 ---
 
@@ -266,19 +266,19 @@ The report features custom DAX measures, dynamic slicers and cross-filtering acr
 
 ![Dashboard Page 1 – Overview](assets/page1_overview.png)
 
-- **Top KPI Strip:** Total Flights (595), Active Airlines (31), Destinations (30 countries), Avg Arrival Delay (10.5 min), Avg Departure Delay (6.0 min).
-- **Destination Ranking:** Top destination cities led by **Istanbul (99 flights)** and **Moscow (74 flights)**.
+- **Top KPI Strip:** Total Flights (**680**), Active Airlines (**32**), Destinations (**30** countries), Avg Arrival Delay (**10.8 min**), Avg Departure Delay (**6.8 min**).
+- **Destination Ranking:** Top destination cities led by Istanbul (**103** flights) and Moscow (**80** flights).
 - **Global Route Map:** Geographic view of international destinations served from Azerbaijani airports.
-- **Daily Flight Trend:** Time-series of daily volume, fluctuating between **51 and 73 flights per day**.
+- **Daily Flight Trend:** Time-series of daily volume, fluctuating between **53 and 82** flights per day.
 
 ### 📄 Page 2 · Operations & Fleet Analytics
 
 ![Dashboard Page 2 – Operations](assets/page2_operations.png)
 
-- **Operational Performance:** Delayed Flights (31) alongside an **On-Time Arrival Rate of 91.73%**.
-- **Fleet Breakdown:** Operations by aircraft model, dominated by the narrow-body **Airbus A320 (213 flights)** and **Embraer 190 (86 flights)**.
-- **Terminal Operations:** Load balance across terminals, with **Terminal 1 handling over 88% of departures**.
-- **Detailed Operations Log:** Tabular log with real-time flight status, callsigns and schedules.
+- **Operational Performance:** Delayed Flights (**36**) alongside an On-Time Arrival Rate of **91.07%**.
+- **Fleet Breakdown:** Operations by aircraft model, dominated by the narrow-body Airbus A320 (**232** flights) and Embraer 190 (**93** flights).
+- **Terminal Operations:** Load balance across terminals, with Terminal 1 handling over **84%** of departures (**572** flights).
+- **Detailed Operations Log:** Tabular log with real-time flight status, callsigns, and schedules.
 
 <details>
 <summary><b>🧠 Example DAX Measures (illustrative)</b></summary>
