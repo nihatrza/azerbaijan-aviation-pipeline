@@ -512,19 +512,13 @@ Thumbs.db
 
 ---
 
-## 👨‍💻 Author
+## 👤 Author
 
-<div align="center">
+**Nihat Rzaquluzade | Junior Data Enginner/Analyst**
 
-**Nihat Rzaguluzada**
+This project was developed as a professional **Data Analytics portfolio project**, demonstrating skills in Python, PostgreSQL, ETL processes, data cleaning, SQL analysis, and Power BI data visualization.
 
-*Data Analyst & Data Engineer*
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nihatrza)
 
-🎓 Information Technologies Undergraduate @ Azerbaijan State University of Economics (UNEC)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihat-rzaguluzada/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nihat%20Rzaguluzada-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihat-rzaguluzada/)
-[![GitHub](https://img.shields.io/badge/GitHub-@NihatRz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nihatrza)
-
-⭐ If you found this project useful, consider giving it a star!
-
-</div>
