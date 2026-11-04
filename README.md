@@ -17,9 +17,7 @@
 
 ![Status](https://img.shields.io/badge/status-active-success?style=flat-square)
 ![Airports](https://img.shields.io/badge/airports-GYD%20%7C%20NAJ%20%7C%20GNJ%20%7C%20LLK%20%7C%20FZL-blue?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NihatRz/azerbaijan-aviation-pipeline?style=flat-square)
-![Repo Size](https://img.shields.io/github/repo-size/NihatRz/azerbaijan-aviation-pipeline?style=flat-square)
-![Stars](https://img.shields.io/github/stars/NihatRz/azerbaijan-aviation-pipeline?style=flat-square)
+
 
 [Overview](#-overview) •
 [Architecture](#-system-architecture) •
