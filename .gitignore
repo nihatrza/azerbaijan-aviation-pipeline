@@ -218,3 +218,19 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# GCP Credentials & Secrets
+*.json
+config/gcp_key.json
+.env
+
+# Python & Airflow
+__pycache__/
+*.pyc
+logs/
+.pytest_cache/
+
+# OS Files
+.DS_Store
+Thumbs.db
