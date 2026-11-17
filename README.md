@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 
 # ✈️ Azerbaijan Aviation & Sky Network
 
@@ -17,7 +17,9 @@
 
 ![Status](https://img.shields.io/badge/status-active-success?style=flat-square)
 ![Airports](https://img.shields.io/badge/airports-GYD%20%7C%20NAJ%20%7C%20GNJ%20%7C%20LLK%20%7C%20FZL-blue?style=flat-square)
-
+![Last Commit](https://img.shields.io/github/last-commit/NihatRz/azerbaijan-aviation-pipeline?style=flat-square)
+![Repo Size](https://img.shields.io/github/repo-size/NihatRz/azerbaijan-aviation-pipeline?style=flat-square)
+![Stars](https://img.shields.io/github/stars/NihatRz/azerbaijan-aviation-pipeline?style=flat-square)
 
 [Overview](#-overview) •
 [Architecture](#-system-architecture) •
@@ -75,12 +77,12 @@ The pipeline continuously monitors flight operations, evaluating carrier perform
 
 | Metric | Value |
 |--------|------:|
-| ✈️ Total Flights Processed | **680+** |
+| ✈️ Total Flights Processed | **1,570+** |
 | 🏢 Active Airlines Monitored | **32 carriers** |
 | 🌍 Destination Reach | **30 countries / 37+ cities** |
-| ⏱️ On-Time Arrival Rate | **91.07%** |
-| 🛬 Average Arrival Delay | **10.8 min** |
-| 🛫 Average Departure Delay | **6.8 min** |
+| ⏱️ On-Time Arrival Rate | **91.35%** |
+| 🛬 Average Arrival Delay | **7.4 min** |
+| 🛫 Average Departure Delay | **6.0 min** |
 
 ---
 
@@ -266,19 +268,19 @@ The report features custom DAX measures, dynamic slicers and cross-filtering acr
 
 ![Dashboard Page 1 – Overview](assets/page1_overview.png)
 
-- **Top KPI Strip:** Total Flights (**680**), Active Airlines (**32**), Destinations (**30** countries), Avg Arrival Delay (**10.8 min**), Avg Departure Delay (**6.8 min**).
-- **Destination Ranking:** Top destination cities led by Istanbul (**103** flights) and Moscow (**80** flights).
-- **Global Route Map:** Geographic view of international destinations served from Azerbaijani airports.
-- **Daily Flight Trend:** Time-series of daily volume, fluctuating between **53 and 82** flights per day.
+- **Top KPI Strip:** Total Flights (**1,570**), Active Airlines (**32**), Destinations (**30** countries), Avg Arrival Delay (**7.4 min**), Avg Departure Delay (**6.0 min**).
+- **Destination Ranking:** Top destination cities led by **Istanbul (231 flights)**, **Moscow (175 flights)** and **Tbilisi (120 flights)**, followed by **Tel Aviv (91 flights)**.
+- **Airline Share & Route Map:** Dominated by the national carrier **AZAL Azerbaijan (955 flights)**, alongside a geographic view of international destinations served from Azerbaijani airports.
+- **Daily Flight Trend:** Time-series of daily volume, fluctuating between **22 and 84 flights per day**.
 
 ### 📄 Page 2 · Operations & Fleet Analytics
 
 ![Dashboard Page 2 – Operations](assets/page2_operations.png)
 
-- **Operational Performance:** Delayed Flights (**36**) alongside an On-Time Arrival Rate of **91.07%**.
-- **Fleet Breakdown:** Operations by aircraft model, dominated by the narrow-body Airbus A320 (**232** flights) and Embraer 190 (**93** flights).
-- **Terminal Operations:** Load balance across terminals, with Terminal 1 handling over **84%** of departures (**572** flights).
-- **Detailed Operations Log:** Tabular log with real-time flight status, callsigns, and schedules.
+- **Operational Performance:** Delayed Flights (**77**) alongside an **On-Time Arrival Rate of 91.35%**.
+- **Fleet Breakdown:** Operations by aircraft model, dominated by the narrow-body **Airbus A320 (494 flights)** and **Embraer 190 (216 flights)**.
+- **Terminal Operations:** Load balance across terminals, with **Terminal 1 handling 81.7% of departures (1,283 flights)**.
+- **Detailed Operations Log:** Tabular log with real-time flight status, callsigns and schedules.
 
 <details>
 <summary><b>🧠 Example DAX Measures (illustrative)</b></summary>
@@ -311,7 +313,7 @@ DIVIDE (
 
 ## 🔍 Key Analytical Findings
 
-> Insights derived from the SQL queries in [`sql/analytical_queries.sql`](sql/analytical_queries.sql).
+> Insights derived from the SQL queries in [`sql/analytical_queries.sql`](sql/analytical_queries.sql) *(based on the initial dataset sample; re-run the queries to refresh percentages for the full 1,570-flight dataset)*.
 
 | # | Finding | Detail |
 |:-:|---------|--------|
@@ -510,12 +512,19 @@ Thumbs.db
 
 ---
 
-## 👤 Author
+## 👨‍💻 Author
 
-**Nihat Rzaquluzade | Junior Data Enginner/Analyst**
+<div align="center">
 
+**Nihat Rzaguluzada**
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nihatrza)
+*Junior Data Engineer / Data Analyst*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihat-rzaguluzada/)
+🎓 Information Technologies Undergraduate @ Azerbaijan State University of Economics (UNEC)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nihat%20Rzaguluzada-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+[![GitHub](https://img.shields.io/badge/GitHub-@NihatRz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NihatRz)
+
+⭐ If you found this project useful, consider giving it a star!
+
+</div>
