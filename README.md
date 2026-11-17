@@ -514,7 +514,7 @@ Thumbs.db
 
 ## 👨‍💻 Author
 
-<div align="center">
+<div align="left">
 
 **Nihat Rzaguluzada**
 
@@ -522,8 +522,8 @@ Thumbs.db
 
 🎓 Information Technologies Undergraduate @ Azerbaijan State University of Economics (UNEC)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nihat%20Rzaguluzada-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
-[![GitHub](https://img.shields.io/badge/GitHub-@NihatRz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NihatRz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nihat%20Rzaguluzada-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihat-rzagguluzad/)
+[![GitHub](https://img.shields.io/badge/GitHub-@NihatRz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nihatrza)
 
 ⭐ If you found this project useful, consider giving it a star!
 
