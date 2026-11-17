@@ -514,7 +514,6 @@ Thumbs.db
 
 **Nihat Rzaquluzade | Junior Data Enginner/Analyst**
 
-This project was developed as a professional **Data Analytics portfolio project**, demonstrating skills in Python, PostgreSQL, ETL processes, data cleaning, SQL analysis, and Power BI data visualization.
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nihatrza)
 
